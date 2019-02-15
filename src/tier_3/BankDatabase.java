@@ -1,15 +1,4 @@
 package tier_3;
-// *****************************************************************************
-// File name  : BankDatabase.java
-// Start date : Sep 26, 2013
-// Programmer : Hans So.
-// Java       : Java 1.6.0 
-// Description: 
-//
-// Revision history:
-//   date     init  comment
-//
-// *****************************************************************************
 
 import java.rmi.Naming;
 import java.rmi.RemoteException;
